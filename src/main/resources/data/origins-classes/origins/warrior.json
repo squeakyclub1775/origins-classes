@@ -4,7 +4,8 @@
     "origins-classes:less_shield_slowdown",
     "origins-classes:sneaky",
     "origins-classes:stealth",
-    "origins-classes:stealth-descriptor"
+    "origins-classes:stealth-descriptor",
+    "origins-classes:no_sprint_exhaustion"
   ],
   "icon": "minecraft:iron_sword",
   "order": 10,
